@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    color: rgb(0, 0, 0);
+    margin: 0 auto;
+}
+
+h1 {
+    color: rgb(123, 123, 123);
+    text-align: center;
+    border-bottom: 2px solid rgba(123, 123, 123, 0.4);
+    padding-bottom: 10px;
+}
+
+#mascot {
+    color: rgb(255, 255, 0)
+}
